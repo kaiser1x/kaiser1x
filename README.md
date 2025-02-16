@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaiser1x
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently self-teaching myself DSA.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently a junior at GSU.
 - 💞️ I’m looking to collaborate on innovative concepts.
 - 📫 How to reach me , @qdtran.dev@gmail.com
 - 😄 Pronouns: he/him
