@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @kaiser1x
-- 👀 I’m interested in programming.
+- 👋 Hi, I’m Quang.
+- 👀 I’m interested in programming and learning new concepts.
 - 🌱 I’m currently a junior at GSU.
-- 💞️ I’m looking to collaborate on innovative concepts.
+- 💞️ I’m looking to collaborate on Hackathons/projects.
 - 📫 How to reach me , @qdtran.dev@gmail.com
-- 😄 Pronouns: he/him
 
 <!---
 kaiser1x/kaiser1x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
