@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Quang.
+- 👋 Hi, I’m Quang, Founder @ PolyCapital
 - 👀 I’m interested in programming and learning new concepts.
 - 🌱 I’m currently a junior at GSU.
 - 💞️ I’m looking to collaborate on Hackathons/projects.
