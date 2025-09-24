@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Quang, Co-Founder @ PolyCapital
 - 👀 I’m interested in programming and learning new concepts.
-- 🌱 I’m currently a junior at GSU.
+- 🌱 I’m currently a Senior at GSU.
 - 💞️ I’m looking to collaborate on Hackathons/projects.
 - 📫 How to reach me , @qdtran.dev@gmail.com
 
