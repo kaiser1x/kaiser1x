@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Quang, Co-Founder @ PolyCapital
+- 👋 Hi, I’m Quang, Co-Founder @ PolyCapital & savr.ai
 - 👀 I’m interested in programming and learning new concepts.
 - 🌱 I’m currently a Senior at GSU.
 - 💞️ I’m looking to collaborate on Hackathons/projects.
