@@ -50,15 +50,6 @@ I'm a builder obsessed with using AI to create smarter, faster, and more human t
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Quang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaiser1x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiser1x&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 ### 🤝 Let's Connect
