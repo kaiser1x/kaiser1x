@@ -5,7 +5,7 @@
 # Hey, I'm Quang 
 
 **Co-Founder @ [FlowFundAI](https://github.com/kaiser1x) & [savr.ai](https://github.com/kaiser1x)**  
-Senior @ Georgia State University ('26) · Building at the intersection of AI & Finance | Currenting building Tailr
+Senior @ Georgia State University ('26) · Building at the intersection of AI & Finance | Currenting building Mob
 
 [![Email](https://img.shields.io/badge/Email-qdtran.dev%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:qdtran.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kaiser1x-black?style=flat-square&logo=github)](https://github.com/kaiser1x)
