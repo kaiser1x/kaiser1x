@@ -6,9 +6,9 @@
 
 **Founder · Software Engineer · Product Builder**
 
-Building **Mob** — a social platform focused on bringing people and communities together.
+Building **Mob** - a social platform focused on bringing people and communities together.
 
-Currently studying Computer Science at Georgia State University · Class of 2026
+Computer Science @ Georgia State University · Class of 2026
 
 [Email](mailto:qdtran.dev@gmail.com) · [GitHub](https://github.com/kaiser1x) · [LinkedIn](https://www.linkedin.com/in/quang-tran-dev/)
 
@@ -33,7 +33,7 @@ Product        Designing the core experience
 Engineering    Building the platform and infrastructure
 AI             Intelligent and personalized experiences
 Team           Building and leading the engineering team
-Scale           Designing for real users from day one
+Scale          Designing for real users from day one
 ```
 
 > **Build the product. Build the team. Build the company.**
@@ -42,17 +42,16 @@ Scale           Designing for real users from day one
 
 ## Previously Built
 
-A collection of products and experiments I've taken from idea to deployment.
+A selection of products I've designed, developed, and deployed.
+[View all projects →](https://www.linkedin.com/in/quang-tran-dev/details/projects/)
 
 ### FlowFund AI
 
 **AI-powered financial intelligence platform**
 
-A financial platform designed to help users understand their spending, manage their finances, and make smarter investment decisions.
+A financial platform designed to help users understand their spending and make smarter investment decisions.
 
 `React` `Node.js` `Python` `MySQL` `AI`
-
-[View Project →](https://github.com/kaiser1x)
 
 ---
 
@@ -60,11 +59,9 @@ A financial platform designed to help users understand their spending, manage th
 
 **AI-powered meal planning assistant**
 
-A system that analyzes grocery receipts and uses AI to generate personalized meal planning and food insights.
+An AI application that analyzes grocery receipts and generates personalized meal planning and food insights.
 
 `React` `Node.js` `AWS Lambda` `Bedrock` `Textract` `DynamoDB` `S3`
-
-[View Project →](https://github.com/kaiser1x)
 
 ---
 
@@ -72,23 +69,21 @@ A system that analyzes grocery receipts and uses AI to generate personalized mea
 
 **Collaborative music discovery platform**
 
-A mobile application centered around discovering and sharing music with other people.
+A mobile application built around discovering, sharing, and interacting with music.
 
 `Flutter` `Dart` `Firebase` `Spotify API`
 
-[View Project →](https://github.com/kaiser1x)
-
 ---
 
-### Aimsters / ReAim
+### Sentinel
 
-**Machine learning × gaming**
+**Intelligent security & monitoring platform**
 
-An experimental platform analyzing mouse movement, reaction time, DPI, sensitivity, and aiming patterns to better understand player performance.
+A security-focused application designed to detect, monitor, and surface important events through automated analysis and intelligent alerting.
 
-`React` `Node.js` `Python` `Machine Learning`
+`React` `Node.js` `Python` `AI`
 
-[View Project →](https://github.com/kaiser1x)
+[View project →](https://www.linkedin.com/posts/quang-tran-dev_hacklanta-hackathon-computervision-activity-7444857446935801857-SRP4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbf9fIBqmbItGf6p9WjlRa73NBNACsvlLM)
 
 ---
 
@@ -112,18 +107,20 @@ Deployment
 Users
 ```
 
-My current interests include:
+### AI Systems
 
-**AI Systems**
 LLM applications, agentic architectures, RAG, and AI-first product design.
 
-**Product Engineering**
+### Product Engineering
+
 Building clean interfaces backed by reliable, production-ready systems.
 
-**Infrastructure**
+### Infrastructure
+
 Cloud architecture, APIs, databases, authentication, deployment, and scalability.
 
-**Startups**
+### Startups
+
 Turning ideas into products, building engineering teams, and learning through shipping.
 
 ---
@@ -166,7 +163,7 @@ AWS · Docker · Supabase · Vercel · Railway
 
 ## Let's Build
 
-I'm interested in ambitious products, early-stage startups, AI, and engineering problems that are worth solving.
+I'm interested in ambitious products, early-stage startups, AI, and engineering problems worth solving.
 
 **If you're building something interesting, I'd love to hear about it.**
 
@@ -176,6 +173,7 @@ I'm interested in ambitious products, early-stage startups, AI, and engineering 
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=kaiser1x&style=flat-square&color=111827" alt="Profile views" />
+[LinkedIn](https://www.linkedin.com/in/quang-tran-dev/) · [GitHub](https://github.com/kaiser1x)
 
 </div>
+
