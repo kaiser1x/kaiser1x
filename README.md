@@ -173,7 +173,7 @@ I'm interested in ambitious products, early-stage startups, AI, and engineering 
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/quang-tran-dev/) · [GitHub](https://github.com/kaiser1x)
+[LinkedIn](https://www.linkedin.com/in/quang-tran-dev/) 
 
 </div>
 
