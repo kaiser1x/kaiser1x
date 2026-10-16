@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="QTGitBanner.svg" width="100%" alt="Quang Tran" />
 
@@ -6,7 +6,7 @@
 
 **Founder · Software Engineer · Product Builder**
 
-Building **Mob** - a social platform focused on bringing people and communities together.
+Building **Galleriverse** — Draw a room. Hang your work. Open the doors.
 
 Computer Science @ Georgia State University · Class of 2026
 
@@ -18,13 +18,26 @@ Computer Science @ Georgia State University · Class of 2026
 
 ## Building
 
-### Mob
+### Galleriverse
 
-**Social · Community · AI**
+**Creative Tools · 3D · Digital Art**
 
-Mob is my current startup and primary focus.
+Galleriverse is my current startup and primary focus, a no-code 3D gallery builder that lets anyone turn a simple floor plan into an immersive, walkable art exhibition.
 
-I'm building Mob from the ground up across product, engineering, infrastructure, and team development.
+Draw rooms on a 2D grid, customize their atmosphere, hang artwork, add sculptures and soundtracks, then publish a gallery anyone can explore through a link. No 3D modeling skills or visitor accounts required.
+
+I'm building Galleriverse from the ground up across product design, interactive 3D rendering, editor architecture, infrastructure, and user experience.
+
+**What I'm focused on:**
+- **Intuitive creation:** A floor-plan editor with grid snapping, room connections, drag-to-resize, and full undo/redo.
+- **Immersive experiences:** Walkable 3D spaces with dynamic lighting, room-specific atmospheres, spatial transitions, and cross-fading soundtracks.
+- **Art-first presentation:** Artwork plaques, picture lighting, customizable interiors, and support for images, video, GIFs, and 3D objects.
+- **Instant publishing:** Shareable public galleries with private edit links, automatic saving, and no account required for visitors.
+- **Reliable architecture:** A framework-independent scene compiler that transforms a simple 2D gallery document into a complete 3D environment.
+
+**Tech stack:** Next.js · TypeScript · React Three Fiber · three.js · Tailwind CSS · Zustand · Zod · Howler · Vercel · Vultr Object Storage
+
+
 
 Currently focused on:
 
